@@ -13,7 +13,7 @@ Nowadays people love to spend time on their phones or laptops. So why not make p
 Technologies used for this projects are python and flask library, react, and mysql database
 
 ### To run this application
-1. open a terminal and run the command git clone https://github.com/sajidmahmud69/Rentit.git
+1. open a terminal and run the command git clone https://github.com/akash395/Rentit.git
 
 2. Once the git repository is ready use the terminal and write the command cd Rentit.
 
